@@ -11,8 +11,8 @@ bool valid_char(char ch){
 
 int Show_Menu(){
 
-    std::cout << "1 : Encrypt" << std::endl; // codavorel
-    std::cout << "2 : Decrypt" << std::endl; // apakodavorel
+    std::cout << "1 : Encrypt" << std::endl; 
+    std::cout << "2 : Decrypt" << std::endl; 
 
     int option;
     std::cin >> option;
